@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Wkr6MTn3IBS05QYRM3hTA7FyHt330shL/view?usp=drive_link](https://drive.google.com/file/d/1Wkr6MTn3IBS05QYRM3hTA7FyHt330shL/view?usp=drive_link)
 
-- ⚡ Fun fact **Vertically challenged, courtesy of a mane that defies gravity!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
