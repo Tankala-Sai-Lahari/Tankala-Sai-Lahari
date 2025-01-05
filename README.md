@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tankala-sai-lahari&label=Profile%20views&color=0e75b6&style=flat" alt="tankala-sai-lahari" /> </p>
 
-- 🔭 I’m currently working on [Automating Bank Check Extraction from Scanned PDFs](https://github.com/Springboard-Internship-2024/Automating-Bank-Check-Extraction-from-Scanned-PDFs_May_2024)
-
 - 🌱 I’m currently learning **System designing**
 
 - 📫 How to reach me **tankalasailahari@gmail.com**
