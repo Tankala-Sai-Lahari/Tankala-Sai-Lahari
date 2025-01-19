@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tankala-sai-lahari&label=Profile%20views&color=0e75b6&style=flat" alt="tankala-sai-lahari" /> </p>
 
-- 🌱 I’m currently learning **System designing**
-
 - 📫 How to reach me **tankalasailahari@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Wkr6MTn3IBS05QYRM3hTA7FyHt330shL/view?usp=drive_link](https://drive.google.com/file/d/1Wkr6MTn3IBS05QYRM3hTA7FyHt330shL/view?usp=drive_link)
